@@ -1,2 +1,4 @@
 # apna_college_study
-learning new 
+learning new concepts 
+entering into real life technology
+
